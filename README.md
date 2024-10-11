@@ -24,7 +24,7 @@ Edit `microca-config.sh` and adjust the variables to your liking
 Run the script `bin/init.sh` to generate directories and the root certificate.
 Import the root-certificate to all browsers and machines that need it.
 
-# Add a site
+## Add a site
 
 If you want to create a server certificate with common name "www.example.com" create 
 a file `./sites/www.example.com.v3.ext` containing the X509V3 extension values for this certificate.
