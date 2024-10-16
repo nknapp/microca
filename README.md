@@ -12,9 +12,10 @@ Getting started:
  
 ## Clone the repository
 
-Git clone ..., you know the drill
+Git clone ..., you know the drill. You should probably clone it to an SD card, so that
+the private data is usually not on your machine.
 
-**All commands must be run in the root directory of this repository.**
+**All following commands must be run in the root directory of this repository.**
 
 ## Edit the configuration
 

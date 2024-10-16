@@ -6,3 +6,9 @@ CA_ORG="My organisation"
 CA_COMMON_NAME="My org CA ROOT"
 # Base name of the certificate- and key-file of the CA_ROOT stored under ./root/
 CA_ROOT_FILE_PREFIX="ca-root"
+
+deploy_root_cert() {
+    # Perform steps to upload the root certificate
+    # somethere it can be downloaded by users.
+    echo No deployment configured
+}

@@ -32,3 +32,5 @@ cat <<EOF
   In Chrome browsers on Linux, you need to open chrome://settings/certificates and
   add it to the authorities tab.
 EOF
+
+deploy_root_cert
